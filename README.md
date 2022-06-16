@@ -5,4 +5,4 @@
 4. Examining the structure of the HTML 
 5. Adding comments about the structure of the HTML markup making note of the order it's in.
 6. Adding comments about image elements and placements.
-7. Adding alt attributes to the images for accessability.
+7. Adding alt attributes to the images for accessibility.
