@@ -1,8 +1,21 @@
-# challenge1-refactoring
-1. First step was to set up my own Repository with the cloned files that were provided. 
-2. Find the source code.
-3. Refactored the markup in such a way that got rid of non-semantic elements. This process mostly involved switching out div and span elements with nav elements. However, in some places section,aside,footer,header, and figure tags were also used for further clarity. During this process spacing was reduced in some areas and increased in other areas of the markup to make it easier to read.
-4. Examining the structure of the HTML 
-5. Adding comments about the structure of the HTML markup making note of the order it's in.
-6. Adding comments about image elements and placements.
-7. Adding alt attributes to the images for accessibility.
+# HoriseonMarketing-Refactor
+
+## The Repository
+
+This repository--owned by Tim Sasse, is where he refactored the Horiseon Webpage. After he made edits to the source code or any assets found within this repository, he would commit them here to keep a succinct list of precedents.
+
+This repository contains: index.html, style.css, MIT License, 8 images, and this README.md file. If one were to clone this repository, all of these files will be downloaded.
+
+Here is a snapshot of what the Horiseon Webpage looks like:
+![Horiseon Webpage](assets/images/Screenshot%202022-06-15%20215354.png)
+
+
+
+## Credits
+Xandromus provided the [starting code](https://github.com/coding-boot-camp/urban-octo-telegram).
+
+[Tim Sasse](https://github.com/timcs1274) was the main contributor to this refactoring project. 
+
+## License
+
+[MIT License](license)
